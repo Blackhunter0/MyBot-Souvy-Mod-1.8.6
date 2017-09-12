@@ -274,7 +274,7 @@
 
 #include "functions\Village\BuilderBase\Collect.au3"
 #include "functions\Village\BuilderBase\StartClockTowerBoost.au3"
-
+#include "functions\Village\ClanHop.au3"
 #include "functions\Other\Api.au3"
 #include "functions\Other\ApiClient.au3"
 
